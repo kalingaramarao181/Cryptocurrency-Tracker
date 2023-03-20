@@ -1,0 +1,27 @@
+.list-top {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 0px;
+  background-color: white;
+}
+.crypto-rate {
+  display: flex;
+  flex-direction: row;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.crypto-text {
+  margin-right: 20px;
+}
+.currency-logo {
+  height: 24px;
+  margin-right: 15px;
+}
